@@ -2,5 +2,7 @@
   "name": "Positive Negatives — David Blecman Photography & Workshops",
   "description": "Positive Negatives by David Blecman. Professional photography portfolios, mentoring training programs, events, and workshops across four continents.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
